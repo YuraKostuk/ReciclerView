@@ -31,7 +31,5 @@ class MainActivity : AppCompatActivity() {
 //            adapter.addList(buckvi)
 //            index++
 //        }
-впвпва
-
     }
 }
