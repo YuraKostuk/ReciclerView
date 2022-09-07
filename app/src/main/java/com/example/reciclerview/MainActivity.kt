@@ -25,7 +25,6 @@ class MainActivity : AppCompatActivity() {
             adapter.addList(buckvi)
             index++
         }
-
 //        while (index <= 6 ) {
 //            val buckvi = Buckvi(imageList[index], "буква $index")
 //            adapter.addList(buckvi)
